@@ -1,6 +1,6 @@
 import React from "react";
 import { Header, Navigation } from "./ui";
-import { GradientCircle, HeaderTag, LandscapeImage } from "./items";
+import { LandscapeImage } from "./items";
 
 const Home = () => {
   return (
