@@ -1,5 +1,4 @@
 import React from "react";
-import { HeadingSupport } from "../items";
 
 const Header = () => {
   return (
